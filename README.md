@@ -3,10 +3,8 @@ bdapps simulator used for tesing application which are created using bdapps APIs
 
 ## Prerequisites ##
 
--  Download Idea Pro developer bundle.
+-  Download bdapps-Developer-Bundle.
  
-
-
 - Following are the software requirements needed, to install the bdapps simulator.
 
 **Java version 1.6.0 or upper**
